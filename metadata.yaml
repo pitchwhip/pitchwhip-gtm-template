@@ -1,0 +1,5 @@
+homepage: "https://pitchwhip.com/website-visitors"
+documentation: "https://pitchwhip.com/website-visitors"
+versions:
+  - sha: ebfc8ac36c50b599c0bb55a4bffbd152d68572b1
+    changeNotes: First release.
